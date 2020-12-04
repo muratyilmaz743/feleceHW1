@@ -1,0 +1,168 @@
+body {
+	 		color: #ffffff;
+	 	}
+
+	 	#navigation {
+			display: flex;
+	 		flex-direction: row;
+			background-color: #062e51;
+			overflow: hidden;
+			justify-content: space-around; 	
+		}
+
+		#navigation a {
+			float: right;
+			color: #ffffff;
+			text-align: center;
+			padding: 14px 16px 14px 14px;
+			text-decoration: none;
+			font-size: 17px;
+		}
+
+
+		#navigation h3 {
+			margin-top: 5px;
+			float: left;
+		}
+
+		main {
+			text-align: center;
+			margin:auto 20px; 	
+		}
+
+		main img {
+			border-radius: 50%;
+			width: 300px;
+			margin-top: 50px;
+		}
+
+		.pen{
+			margin: 0px auto;
+			width: 30px;
+		}
+
+		main h1 {
+			font-size: 30px;
+		}
+
+		main i {
+			color: #7b7f85;
+			font-size: 16px;
+		}
+
+		main button {
+			border-radius: 6px;
+			background-color: #326ea2;
+			border: none;
+			color: white;
+			padding: auto 32px;
+			text-align: center;
+			display: inline-block;
+			font-size: 16px;
+			height: 40px;
+			width: 190px;
+			margin-top: 15px;
+		}
+
+		section {
+			background-color: #062e51;
+			height: 12vw;
+		}
+
+		h3 {
+			padding-top: 1vh;
+		}
+
+		.cv h1 {
+			color: black;
+		}
+
+		#egitimler {
+			display: flex;
+			flex-direction: column;
+			align-content: flex-start;
+		}
+
+		.flex-inner {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			margin-bottom: -4vh;
+		}
+
+		#innerEgitimler {
+			margin: 0vh 4vw;
+		}
+
+		#kurslar{
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			align-content: space-around;
+		}
+
+		#kurslar h3 {
+			color: black;
+			font-size: 3 vh;
+		}
+
+		#kurslar  div {
+			background-color: #0081CF;
+			margin: 3vh;
+			width: 50vw;
+			height: 10vw;
+		}
+
+		.container {
+			background-color: #062e51;
+
+		}
+
+		.container h3 {
+			text-align: center;
+		}
+
+		.flex-outer {
+			align-items: center;
+			list-style-type: none;
+			max-width: 700px;
+			margin: 0 auto;
+			padding: 15px;
+			border: none;			
+		}
+
+		.flex-outer input , .flex-outer textarea, .flex-outer button {
+			border-radius: 1vh;
+			margin-bottom: 2vh;
+		}  
+
+
+		.flex-outer li button {
+			background-color: #ffffff;
+			border: none;
+			color: black;
+			text-align: center;
+			display: inline-block;
+			font-size: 16px;
+			height: 40px;
+			width: 100%;
+			margin-top: 15px;
+		}
+
+		textarea, input {
+			width: 100%;
+		}
+
+		input {
+			height: 5vh;
+		}
+
+		#social-media {
+			justify-content: center;
+			align-content: flex-start;
+		}
+
+		#social-media img {
+			margin:0 2vh 2vh 2vh;
+		}
+

@@ -1,0 +1,11 @@
+Merhaba arkadaşlar,
+
+Gördüğümüz HTML ve CSS derslerini baz alarak tek sayfa bir HTML sayfası tasarlamanızı istiyoruz.
+
+Tek sayfayı 3 resim halinde alt alta gönderiyorum.
+
+Resim ve açıklamalar önemli değil. Bilgilerinizi girebilirsiniz. Resimleri rastgele değiştirebilirsiniz. 
+
+Flexbox kullanarak yapmanızı bekliyoruz. Ölçü birimi olarak ise vh ve vw kullanmanızı öneriyoruz.
+
+Kolay gelsin. Teşekkür ederim. 
